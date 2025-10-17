@@ -4,7 +4,7 @@ import { personalInfo } from '../data/portfolioData';
 
 export default function Footer() {
   const socialLinks = [
-    { icon: Github, label: 'GitHub', url: personalInfo.github },
+  { icon: Github, label: 'GitHub', url: 'https://github.com/nannaabhiram' },
     { icon: Linkedin, label: 'LinkedIn', url: personalInfo.linkedin },
     { icon: Mail, label: 'Email', url: `mailto:${personalInfo.email}` }
   ];
