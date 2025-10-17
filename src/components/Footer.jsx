@@ -6,7 +6,7 @@ export default function Footer() {
   const socialLinks = [
   { icon: Github, label: 'GitHub', url: 'https://github.com/nannaabhiram' },
   { icon: Linkedin, label: 'LinkedIn', url: 'https://www.linkedin.com/in/nanna-abhi-ram-664994320/' },
-    { icon: Mail, label: 'Email', url: `mailto:${personalInfo.email}` }
+  { icon: Mail, label: 'Email', url: 'mailto:nanna.abhiram25@gmail.com' }
   ];
 
   return (
